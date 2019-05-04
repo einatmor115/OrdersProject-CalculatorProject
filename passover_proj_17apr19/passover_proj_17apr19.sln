@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passover_proj_17apr19", "passover_proj_17apr19\passover_proj_17apr19.csproj", "{AAE9FFDF-59CC-453F-8F5E-E3F640BB393F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE9FFDF-59CC-453F-8F5E-E3F640BB393F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE9FFDF-59CC-453F-8F5E-E3F640BB393F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE9FFDF-59CC-453F-8F5E-E3F640BB393F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE9FFDF-59CC-453F-8F5E-E3F640BB393F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C7D057-BC3D-4F8C-BB09-F6B52ACB1BE5}
+	EndGlobalSection
+EndGlobal
